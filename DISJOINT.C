@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 struct DisjSet
 {
 int parent[10];
